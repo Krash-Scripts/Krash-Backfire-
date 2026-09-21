@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/assets/backfire-banner.svg" alt="KR4SH Backfire — vehicle exhaust and tuning system" width="100%">
+  <img src=".github/assets/backfire-hero.webp" alt="KR4SH Backfire — cinematic exhaust flames and tuning tablet artwork" width="100%">
 
   <br><br>
 
